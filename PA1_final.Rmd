@@ -119,4 +119,3 @@ xyplot(byint_imputed$steps ~ byint_imputed$interval|byint_imputed$dow,          
         type="l")
 ```
 
-- Yes,there are some differences in the patterns for weekday and weekend intervals. However, both show more steps during the day and little to none at night, with large spikes in steps early in the day.  Daytime step patterns are also different.  There are larger and more frequent spikes in steps on weekends.
